@@ -70,10 +70,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>01/05/2012 10:08:46</publishTime>
     </File>
     <File Include="bin/NewSite.dll">
-      <publishTime>05/18/2018 12:13:11</publishTime>
+      <publishTime>05/18/2018 13:02:10</publishTime>
     </File>
     <File Include="bin/NewSite.pdb">
-      <publishTime>05/18/2018 12:13:11</publishTime>
+      <publishTime>05/18/2018 13:02:10</publishTime>
     </File>
     <File Include="bin/Newtonsoft.Json.dll">
       <publishTime>08/03/2014 20:33:56</publishTime>
@@ -178,7 +178,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>05/14/2018 22:10:48</publishTime>
     </File>
     <File Include="Content/Site.css">
-      <publishTime>05/14/2018 22:36:54</publishTime>
+      <publishTime>05/18/2018 12:56:34</publishTime>
     </File>
     <File Include="favicon.ico">
       <publishTime>05/14/2018 22:10:40</publishTime>
@@ -199,10 +199,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>05/14/2018 22:10:40</publishTime>
     </File>
     <File Include="images/galley.png">
-      <publishTime>05/14/2018 22:41:24</publishTime>
+      <publishTime>05/18/2018 12:54:23</publishTime>
     </File>
     <File Include="index.html">
-      <publishTime>05/16/2018 13:33:53</publishTime>
+      <publishTime>05/18/2018 12:59:15</publishTime>
     </File>
     <File Include="kids.html">
       <publishTime>05/16/2018 13:35:50</publishTime>
