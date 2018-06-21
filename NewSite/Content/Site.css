@@ -2,7 +2,17 @@
 body {
     padding-top: 50px;
     padding-bottom: 20px;
+    background-image: url("../images/lighthouse-large.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain;
 }
+
+
 
 /* Wrapping element */
 /* Set some basic padding to keep content from hitting the edges */
@@ -22,8 +32,16 @@ textarea {
     position: relative;
     top: -25px;
     float: left;
-    width: 180px;
-    height: 165px;
+}
+
+.main-content {
+    padding: 30px;
+    margin-bottom: 30px;
+    font-size: 21px;
+    font-weight: 200;
+    line-height: 2.1428571435;
+    color: inherit;
+    background-color: rgba(255, 255, 255, 0.8);
 }
 
 .menu-heading {
@@ -44,5 +62,6 @@ textarea {
 
     .body-content {
         padding: 0;
+
     }
 }
