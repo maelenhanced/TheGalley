@@ -124,3 +124,5 @@ C:\Users\Brendan\Documents\GitHub\TheGalley\NewSite\bin\Microsoft.AI.Web.xml
 C:\Users\Brendan\Documents\GitHub\TheGalley\NewSite\obj\Debug\NewSite.csprojResolveAssemblyReference.cache
 C:\Users\Brendan\Documents\GitHub\TheGalley\NewSite\obj\Debug\NewSite.dll
 C:\Users\Brendan\Documents\GitHub\TheGalley\NewSite\obj\Debug\NewSite.pdb
+C:\Users\Brendan\Documents\GitHub\TheGalley\NewSite\obj\Debug\NewSite.csproj.CoreCompileInputs.cache
+C:\Users\Brendan\Documents\GitHub\TheGalley\NewSite\obj\Debug\NewSite.csproj.CopyComplete
