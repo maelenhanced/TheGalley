@@ -4,7 +4,8 @@ body {
     padding-bottom: 20px;
     background-image: url("../images/lighthouse-large.png");
     background-repeat: no-repeat;
-    background-position: center;
+    background-position-x: center;
+    background-position-y: 50px;
     background-attachment: fixed;
     -webkit-background-size: contain;
     -moz-background-size: contain;
@@ -32,7 +33,6 @@ textarea {
     position: relative;
     top: -25px;
     float: left;
-    object-fit: contain;
 }
 
 .main-content {
@@ -64,11 +64,5 @@ textarea {
     .body-content {
         padding: 0;
 
-    }
-}
-
-@media screen and (max-width: 600px){
-    body {
-        background-color: red;
     }
 }

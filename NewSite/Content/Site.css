@@ -4,7 +4,8 @@ body {
     padding-bottom: 20px;
     background-image: url("../images/lighthouse-large.png");
     background-repeat: no-repeat;
-    background-position: center;
+    background-position-x: center;
+    background-position-y: 50px;
     background-attachment: fixed;
     -webkit-background-size: contain;
     -moz-background-size: contain;
