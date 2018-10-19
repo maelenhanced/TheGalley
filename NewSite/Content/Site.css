@@ -2,7 +2,7 @@
 body {
     padding-top: 50px;
     padding-bottom: 20px;
-    background-image: url("../images/lighthouse-large.png");
+    background-image: url("../images/lighthouse-small.png");
     background-repeat: no-repeat;
     background-position-x: center;
     background-position-y: 50px;
@@ -11,6 +11,7 @@ body {
     -moz-background-size: contain;
     -o-background-size: contain;
     background-size: contain;
+    color: #2a6496;
 }
 
 
