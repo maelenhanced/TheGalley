@@ -5,44 +5,47 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title></title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="Content/bootstrap.css" />
+    <link rel="stylesheet" type="text/css" href="Content/Site.css" />
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
-    <link rel="stylesheet" type="text/css" href="Content/bootstrap.css" />
-    <link rel="stylesheet" type="text/css" href="Content/Site.css" />
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+    <style>
+        .carousel-inner img {
+            width: 100%;
+            height: 100%;
+        }
+    </style>
 </head>
 <body>
-    <div class="navbar navbar-default navbar-fixed-top">
-        <div class="container">
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                <a class="navbar-brand" href="#">The Galley</a>
-            </div>
-            <div class="navbar-collapse collapse">
-                <ul class="nav navbar-nav">
-                    <li><a href="index.html">Home</a></li>
-                    <li class="nav-item dropdown">
-                        <a class="dropdown-toggle" href="#" id="dropdownMenuLink" data-toggle="dropdown">Menus <span class="caret"></span></a>
-                        <div class="dropdown-menu">
-                            <ul class="nav navbar-nav">
-                                <li style="padding-left: 15px;"><a href="menu.html">Dine-In</a></li>
-                                <li style="padding-left: 15px;"><a href="kids.html">Kids</a></li>
-                                <li style="padding-left: 15px;"><a href="carryout.html">Carryout</a></li>
-                            </ul>
-                        </div>
-                    </li>
-                    <li><a href="specials.html">Specials</a></li>
-                    <li><a runat="server" href="banquet.html">Banquets</a></li>
-                    <li><a runat="server" href="contact.html">Contact</a></li>
-                </ul>
-            </div>
-        </div>
-    </div>
+    <nav class="navbar navbar-expand-sm navbar-default navbar-fixed-top">
+        <a class="navbar-brand" href="#">The Galley</a>
+        <ul class="nav navbar-nav">
+            <li class="nav-item">
+                <a class="nav-link" href="index.html">Home</a>
+            </li>
+            <li class="nav-item dropdown">
+                <a class="dropdown-toggle" href="#" id="dropdownMenuLink" data-toggle="dropdown">Menus</a>
+                <div class="dropdown-menu">
+                    <ul class="nav navbar-nav">
+                        <li style="padding-left: 15px;"><a href="menu.html">Dine-In</a></li>
+                        <li style="padding-left: 15px;"><a href="kids.html">Kids</a></li>
+                        <li style="padding-left: 15px;"><a href="carryout.html">Carryout</a></li>
+                    </ul>
+                </div>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="specials.html">Specials</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="banquet.html">Banquets</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="contact.html">Contact Us</a>
+            </li>
+        </ul>
+    </nav>
     <div class="container body-content">
         <div class="jumbotron" style="text-align: center;">
             <img class="logo-align" src="images/galley.png" alt="The Galley Decatur, Indiana Logo" />
@@ -53,39 +56,34 @@
             <div class="col-md-3">
             </div>
             <div class="col-md-6">
-                <div id="demo" class="carousel slide" data-ride="carousel">
+                <div id="main" class="carousel slide" data-ride="carousel">
                     <ul class="carousel-indicators">
-                        <li data-target="#demo" data-slide-to="0" class="active"></li>
-                        <li data-target="#demo" data-slide-to="1"></li>
-                        <li data-target="#demo" data-slide-to="2"></li>
+                        <li data-target="#main" data-slide-to="0" class="active"></li>
+                        <li data-target="#main" data-slide-to="1"></li>
+                        <li data-target="#main" data-slide-to="2"></li>
                     </ul>
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img src="images/Galley Building.jpg" alt="Los Angeles" width="1100" height="500">
+                            <img src="images/Galley Building.jpg" alt="Los Angeles">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="images/Galley Sign.jpg" alt="Chicago">
                             <div class="carousel-caption">
-                                <h3>Los Angeles</h3>
-                                <p>We had such a great time in LA!</p>
+                                <h3>Celebrating 40 Years!</h3>
+                                <p>Thank you for all of your support</p>
                             </div>
                         </div>
                         <div class="carousel-item">
-                            <img src="images/Galley Sign.jpg" alt="Chicago" width="1100" height="500">
+                            <img src="images/Shrimp Wrap.jpg" alt="New York">
                             <div class="carousel-caption">
-                                <h3>Chicago</h3>
-                                <p>Thank you, Chicago!</p>
-                            </div>
-                        </div>
-                        <div class="carousel-item">
-                            <img src="images/Shrimp Wrap.jpg" alt="New York" width="1100" height="500">
-                            <div class="carousel-caption">
-                                <h3>New York</h3>
-                                <p>We love the Big Apple!</p>
+                                <h3 >New Menu Items</h3>
                             </div>
                         </div>
                     </div>
-                    <a class="carousel-control-prev" href="#demo" data-slide="prev">
+                    <a class="carousel-control-prev" href="#main" data-slide="prev">
                         <span class="carousel-control-prev-icon"></span>
                     </a>
-                    <a class="carousel-control-next" href="#demo" data-slide="next">
+                    <a class="carousel-control-next" href="#main" data-slide="next">
                         <span class="carousel-control-next-icon"></span>
                     </a>
                 </div>
