@@ -14,7 +14,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>05/14/2018 22:10:53</publishTime>
     </File>
     <File Include="banquet.html">
-      <publishTime>05/16/2018 13:35:50</publishTime>
+      <publishTime>10/19/2018 15:34:33</publishTime>
     </File>
     <File Include="bin/Antlr3.Runtime.dll">
       <publishTime>02/22/2013 07:43:40</publishTime>
@@ -71,10 +71,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>01/05/2012 10:08:46</publishTime>
     </File>
     <File Include="bin/NewSite.dll">
-      <publishTime>06/27/2018 13:09:12</publishTime>
+      <publishTime>10/19/2018 21:28:02</publishTime>
     </File>
     <File Include="bin/NewSite.pdb">
-      <publishTime>06/27/2018 13:09:12</publishTime>
+      <publishTime>10/19/2018 21:28:02</publishTime>
     </File>
     <File Include="bin/Newtonsoft.Json.dll">
       <publishTime>08/03/2014 20:33:56</publishTime>
@@ -167,19 +167,19 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>05/14/2018 22:10:40</publishTime>
     </File>
     <File Include="carryout.html">
-      <publishTime>06/26/2018 13:21:27</publishTime>
+      <publishTime>10/19/2018 15:34:33</publishTime>
     </File>
     <File Include="contact.html">
-      <publishTime>05/16/2018 13:46:15</publishTime>
+      <publishTime>10/19/2018 15:34:33</publishTime>
     </File>
     <File Include="Content/bootstrap.css">
-      <publishTime>06/27/2018 13:08:36</publishTime>
+      <publishTime>10/19/2018 20:56:13</publishTime>
     </File>
     <File Include="Content/bootstrap.min.css">
       <publishTime>05/14/2018 22:10:48</publishTime>
     </File>
     <File Include="Content/Site.css">
-      <publishTime>06/27/2018 13:07:14</publishTime>
+      <publishTime>10/19/2018 21:26:59</publishTime>
     </File>
     <File Include="favicon.ico">
       <publishTime>05/14/2018 22:10:40</publishTime>
@@ -199,8 +199,89 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="Global.asax">
       <publishTime>05/14/2018 22:10:40</publishTime>
     </File>
+    <File Include="images/Galley Building.jpg">
+      <publishTime>10/19/2018 12:55:04</publishTime>
+    </File>
+    <File Include="images/Galley Employees.jpg">
+      <publishTime>10/19/2018 12:55:04</publishTime>
+    </File>
+    <File Include="images/Galley Sign.jpg">
+      <publishTime>10/19/2018 12:55:04</publishTime>
+    </File>
     <File Include="images/galley.png">
       <publishTime>06/24/2018 21:40:27</publishTime>
+    </File>
+    <File Include="images/IMG_0198.jpg">
+      <publishTime>10/19/2018 12:55:04</publishTime>
+    </File>
+    <File Include="images/IMG_0199.jpg">
+      <publishTime>10/19/2018 12:55:04</publishTime>
+    </File>
+    <File Include="images/IMG_0200.jpg">
+      <publishTime>10/19/2018 12:55:04</publishTime>
+    </File>
+    <File Include="images/IMG_0201.jpg">
+      <publishTime>10/19/2018 12:55:04</publishTime>
+    </File>
+    <File Include="images/IMG_0202.jpg">
+      <publishTime>10/19/2018 12:55:04</publishTime>
+    </File>
+    <File Include="images/IMG_0203.jpg">
+      <publishTime>10/19/2018 12:55:04</publishTime>
+    </File>
+    <File Include="images/IMG_0204.jpg">
+      <publishTime>10/19/2018 12:55:04</publishTime>
+    </File>
+    <File Include="images/IMG_0205.jpg">
+      <publishTime>10/19/2018 12:55:04</publishTime>
+    </File>
+    <File Include="images/IMG_0206.jpg">
+      <publishTime>10/19/2018 12:55:04</publishTime>
+    </File>
+    <File Include="images/IMG_0207.jpg">
+      <publishTime>10/19/2018 12:55:04</publishTime>
+    </File>
+    <File Include="images/IMG_0208.jpg">
+      <publishTime>10/19/2018 12:55:04</publishTime>
+    </File>
+    <File Include="images/IMG_0209.jpg">
+      <publishTime>10/19/2018 12:55:04</publishTime>
+    </File>
+    <File Include="images/IMG_0210.jpg">
+      <publishTime>10/19/2018 12:55:04</publishTime>
+    </File>
+    <File Include="images/IMG_0211.jpg">
+      <publishTime>10/19/2018 12:55:04</publishTime>
+    </File>
+    <File Include="images/IMG_0214.jpg">
+      <publishTime>10/19/2018 12:55:04</publishTime>
+    </File>
+    <File Include="images/IMG_0221.jpg">
+      <publishTime>10/19/2018 12:55:04</publishTime>
+    </File>
+    <File Include="images/IMG_0222.jpg">
+      <publishTime>10/19/2018 12:55:04</publishTime>
+    </File>
+    <File Include="images/IMG_0225.jpg">
+      <publishTime>10/19/2018 12:55:04</publishTime>
+    </File>
+    <File Include="images/IMG_0228.jpg">
+      <publishTime>10/19/2018 12:55:04</publishTime>
+    </File>
+    <File Include="images/IMG_0229.jpg">
+      <publishTime>10/19/2018 12:55:04</publishTime>
+    </File>
+    <File Include="images/IMG_0230.jpg">
+      <publishTime>10/19/2018 12:55:04</publishTime>
+    </File>
+    <File Include="images/IMG_0231.jpg">
+      <publishTime>10/19/2018 12:55:04</publishTime>
+    </File>
+    <File Include="images/IMG_0234.jpg">
+      <publishTime>10/19/2018 12:55:04</publishTime>
+    </File>
+    <File Include="images/IMG_0235.jpg">
+      <publishTime>10/19/2018 12:55:04</publishTime>
     </File>
     <File Include="images/lighthouse-large.png">
       <publishTime>06/24/2018 21:40:27</publishTime>
@@ -208,14 +289,17 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="images/lighthouse-small.png">
       <publishTime>06/24/2018 21:40:27</publishTime>
     </File>
+    <File Include="images/Shrimp Wrap.jpg">
+      <publishTime>10/19/2018 12:55:04</publishTime>
+    </File>
     <File Include="index.html">
-      <publishTime>06/24/2018 21:40:27</publishTime>
+      <publishTime>10/19/2018 21:19:12</publishTime>
     </File>
     <File Include="kids.html">
-      <publishTime>06/25/2018 20:17:38</publishTime>
+      <publishTime>10/19/2018 15:34:33</publishTime>
     </File>
     <File Include="menu.html">
-      <publishTime>06/27/2018 12:55:01</publishTime>
+      <publishTime>10/19/2018 15:34:33</publishTime>
     </File>
     <File Include="Scripts/bootstrap.js">
       <publishTime>05/14/2018 22:10:48</publishTime>
@@ -311,7 +395,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>05/14/2018 22:10:51</publishTime>
     </File>
     <File Include="specials.html">
-      <publishTime>05/16/2018 13:35:50</publishTime>
+      <publishTime>10/19/2018 15:34:33</publishTime>
     </File>
     <File Include="ViewSwitcher.ascx">
       <publishTime>05/14/2018 22:10:51</publishTime>

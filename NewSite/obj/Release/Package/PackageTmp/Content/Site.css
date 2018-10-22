@@ -2,7 +2,7 @@
 body {
     padding-top: 50px;
     padding-bottom: 20px;
-    background-image: url("../images/lighthouse-large.png");
+    background-image: url("../images/lighthouse-small.png");
     background-repeat: no-repeat;
     background-position-x: center;
     background-position-y: 50px;
@@ -11,6 +11,7 @@ body {
     -moz-background-size: contain;
     -o-background-size: contain;
     background-size: contain;
+    color: #2a6496;
 }
 
 
@@ -38,8 +39,6 @@ textarea {
 .main-content {
     padding: 30px;
     margin-bottom: 30px;
-    font-size: 21px;
-    font-weight: 200;
     line-height: 2.1428571435;
     color: inherit;
     background-color: rgba(255, 255, 255, 0.8);
@@ -52,7 +51,8 @@ textarea {
 }
 
 .main-content-text {
-    font-size: 18px;
+    font-size: 20px;
+    font-weight: bold;
 }
 
 /* Responsive: Portrait tablets and up */
