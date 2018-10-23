@@ -11,6 +11,12 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
+    <style>
+        .carousel-inner img {
+            width: 100%;
+            height: 100%;
+        }
+    </style>
 </head>
 <body>
     <nav class="navbar navbar-expand-md navbar-default navbar-fixed-top">
@@ -75,6 +81,49 @@
                 <p class="main-content-text">
                     Note: Tax and Tip is included with all prices.
                 </p>
+                <div id="banquet" class="carousel slide" data-ride="carousel">
+                    <ul class="carousel-indicators">
+                        <li data-target="#banquet" data-slide-to="0" class="active"></li>
+                        <li data-target="#banquet" data-slide-to="1"></li>
+                        <li data-target="#banquet" data-slide-to="2"></li>
+                        <li data-target="#banquet" data-slide-to="3"></li>
+                        <li data-target="#banquet" data-slide-to="4"></li>
+                        <li data-target="#banquet" data-slide-to="5"></li>
+                    </ul>
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                            <img src="images/IMG_0229.jpg" alt="Banquet Room Image 1">
+                            <div class="carousel-caption">
+                                <h3>Banquet Room</h3>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <img src="images/IMG_0221.jpg" alt="Banguet Room Image 2">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="images/IMG_0231.jpg" alt="Banquet Room Image 3">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="images/IMG_0200.jpg" alt="Starboard Side Image 1">
+                            <div class="carousel-caption">
+                                <h3>The Starboard Side</h3>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <img src="images/IMG_0199.jpg" alt="Starboard Side Image 2">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="images/IMG_0201.jpg" alt="Starboard Side Image 3">
+                        </div>
+                    </div>
+                    <a class="carousel-control-prev" href="#banquet" data-slide="prev">
+                        <span class="carousel-control-prev-icon"></span>
+                    </a>
+                    <a class="carousel-control-next" href="#banquet" data-slide="next">
+                        <span class="carousel-control-next-icon"></span>
+                    </a>
+                </div>
+                <br />
                 <h2 class="menu-heading">Banquet Option #1 - 17.99 / Person</h2>
                 <p class="main-content-text">
                     An all you can eat meal served with choice of 2 meats, salad bar, baked potato, roll & butter,
