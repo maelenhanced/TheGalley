@@ -55,16 +55,19 @@ textarea {
     font-weight: bold;
 }
 
-.menu-item{
+.menu-item {
     font-size: 20px;
     font-weight: bold;
 }
 
-.menu-item-details{
+.menu-item-details {
     font-size: 16px;
     font-style: italic;
 }
 
+.page-heading {
+    font-weight: bold;
+}
 
 /* Responsive: Portrait tablets and up */
 @media screen and (min-width: 768px) {
@@ -74,6 +77,5 @@ textarea {
 
     .body-content {
         padding: 0;
-
     }
 }
