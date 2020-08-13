@@ -70,10 +70,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>01/28/2019 10:18:59</publishTime>
     </File>
     <File Include="bin/NewSite.dll">
-      <publishTime>08/19/2019 08:49:45</publishTime>
+      <publishTime>11/18/2019 11:19:55</publishTime>
     </File>
     <File Include="bin/NewSite.pdb">
-      <publishTime>08/19/2019 08:49:45</publishTime>
+      <publishTime>11/18/2019 11:19:55</publishTime>
     </File>
     <File Include="bin/Newtonsoft.Json.dll">
       <publishTime>01/28/2019 10:18:59</publishTime>
@@ -298,7 +298,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>03/20/2019 12:54:20</publishTime>
     </File>
     <File Include="menu.html">
-      <publishTime>03/20/2019 12:54:02</publishTime>
+      <publishTime>11/18/2019 11:19:39</publishTime>
     </File>
     <File Include="Scripts/bootstrap.js">
       <publishTime>01/28/2019 10:18:58</publishTime>

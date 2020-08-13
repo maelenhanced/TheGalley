@@ -59,6 +59,5 @@ C:\Users\Brendan\Documents\GitHub\TheGalley\NewSite\bin\Microsoft.AI.WindowsServ
 C:\Users\Brendan\Documents\GitHub\TheGalley\NewSite\bin\Microsoft.AI.Web.xml
 C:\Users\Brendan\Documents\GitHub\TheGalley\NewSite\obj\Release\NewSite.dll
 C:\Users\Brendan\Documents\GitHub\TheGalley\NewSite\obj\Release\NewSite.pdb
-C:\Users\Brendan\Documents\GitHub\TheGalley\NewSite\obj\Release\NewSite.csproj.CoreCompileInputs.cache
 C:\Users\Brendan\Documents\GitHub\TheGalley\NewSite\obj\Release\NewSite.csproj.CopyComplete
 C:\Users\Brendan\Documents\GitHub\TheGalley\NewSite\obj\Release\NewSite.csprojAssemblyReference.cache
